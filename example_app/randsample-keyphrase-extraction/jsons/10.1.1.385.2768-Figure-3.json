@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 3,
+"Page": 6,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [73,198,775,253],
+"Caption": "Figure 3: Scheme Progression. We show the connectivity graphs at each level for a highly discontinuous EPS problem, starting from a four-point Laplacian matrix defined by the left image. Red circles show fine (eliminated) variables and black show the coarse ones. Green lines show the connections kept between variables and red show the ones removed during sparsification. The thickness of the lines indicates the corresponding weights strengths. Please see the supplementary results for additional examples. ",
+"ImageBB": [77,73,773,188],
+"ImageText" : [
+
+]}

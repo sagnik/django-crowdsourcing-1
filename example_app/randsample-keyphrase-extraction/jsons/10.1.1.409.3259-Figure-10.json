@@ -1,0 +1,22 @@
+{"Type":"Figure",
+"Number": 10,
+"Page": 6,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [427,962,757,990],
+"Caption": "Figure 10. Motion estimation results with and without the stabilization term. ",
+"ImageBB": [435,841,758,959],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [437.333,947.371,450.274,956.059], "Text": "(a)"},
+	{"Rotation": 0,"TextBB": [453.654,947.371,477.433,956.059], "Text": "initial"},
+	{"Rotation": 0,"TextBB": [480.968,947.371,518.723,956.059], "Text": "positions"},
+	{"Rotation": 0,"TextBB": [546.667,947.371,559.985,956.059], "Text": "(b)"},
+	{"Rotation": 0,"TextBB": [562.997,947.371,598.379,956.059], "Text": "Without"},
+	{"Rotation": 0,"TextBB": [601.324,947.371,622.1,956.059], "Text": "stab."},
+	{"Rotation": 0,"TextBB": [626.652,947.371,646.634,956.059], "Text": "term"},
+	{"Rotation": 0,"TextBB": [656,947.371,668.572,956.059], "Text": "(c)"},
+	{"Rotation": 0,"TextBB": [671.991,947.371,693.194,956.059], "Text": "With"},
+	{"Rotation": 0,"TextBB": [696.651,947.371,717.428,956.059], "Text": "stab."},
+	{"Rotation": 0,"TextBB": [721.98,947.371,741.962,956.059], "Text": "term"}
+]}

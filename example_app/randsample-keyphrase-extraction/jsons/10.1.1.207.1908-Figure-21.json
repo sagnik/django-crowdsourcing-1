@@ -1,0 +1,35 @@
+{"Type":"Figure",
+"Number": 21,
+"Page": 14,
+"DPI": 100,
+"Width": 827,
+"Height": 1169,
+"CaptionBB": [438,471,772,499],
+"Caption": "Figure 21: Glyph rendering parallelization speedup. Col- umn label shows number of hardware contexts used. ",
+"ImageBB": [439,286,739,456],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [462.557,285.898,491.857,298.108], "Text": "msnbc "},
+	{"Rotation": 0,"TextBB": [535.764,285.898,560.754,298.108], "Text": "gmail "},
+	{"Rotation": 0,"TextBB": [608.97,285.898,646.2,298.108], "Text": "slashdot "},
+	{"Rotation": 0,"TextBB": [682.176,285.898,727.556,298.108], "Text": "deviantart "},
+	{"Rotation": 0,"TextBB": [462.557,303.4,491.057,315.61], "Text": "neKlix "},
+	{"Rotation": 0,"TextBB": [535.764,303.4,576.114,315.61], "Text": "facebook "},
+	{"Rotation": 0,"TextBB": [608.97,303.4,650.41,315.61], "Text": "AVERAGE "},
+	{"Rotation": 0,"TextBB": [682.176,303.4,708.466,315.61], "Text": "IDEAL "},
+	{"Rotation": 0,"TextBB": [450.77,323.524,459.322,337.769], "Text": "4 "},
+	{"Rotation": 0,"TextBB": [450.77,346.179,459.322,360.424], "Text": "3 "},
+	{"Rotation": 0,"TextBB": [450.77,368.833,459.322,383.078], "Text": "2 "},
+	{"Rotation": 0,"TextBB": [450.77,391.488,459.322,405.733], "Text": "1 "},
+	{"Rotation": 0,"TextBB": [450.77,414.142,459.322,428.387], "Text": "0 "},
+	{"Rotation": 0,"TextBB": [469.635,431.964,494.928,446.209], "Text": "MB1 "},
+	{"Rotation": 0,"TextBB": [496.553,431.964,521.846,446.209], "Text": "MB2 "},
+	{"Rotation": 0,"TextBB": [528.001,431.964,544.241,446.209], "Text": "N1 "},
+	{"Rotation": 0,"TextBB": [554.919,431.964,571.159,446.209], "Text": "N2 "},
+	{"Rotation": 0,"TextBB": [581.836,431.964,598.076,446.209], "Text": "N3 "},
+	{"Rotation": 0,"TextBB": [608.754,431.964,624.994,446.209], "Text": "N4 "},
+	{"Rotation": 0,"TextBB": [635.672,431.964,651.912,446.209], "Text": "N5 "},
+	{"Rotation": 0,"TextBB": [662.59,431.964,678.83,446.209], "Text": "N6 "},
+	{"Rotation": 0,"TextBB": [689.508,431.964,705.748,446.209], "Text": "N7 "},
+	{"Rotation": 0,"TextBB": [716.426,431.964,732.666,446.209], "Text": "N8 "},
+	{"Rotation": 0,"TextBB": [493.937,442.741,712.607,454.951], "Text": "Hardware Contexts (MB=MacBook Pro, N=Nehalem) "}
+]}

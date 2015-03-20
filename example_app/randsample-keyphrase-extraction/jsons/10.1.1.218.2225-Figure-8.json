@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 8,
+"Page": 6,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [79,438,409,486],
+"Caption": "Figure 8: Typical examples of correct (left) and incorrect (right) classfications with positions of most discriminative patches for object (yellow) and background class (red). ",
+"ImageBB": [80,98,410,422],
+"ImageText" : [
+
+]}

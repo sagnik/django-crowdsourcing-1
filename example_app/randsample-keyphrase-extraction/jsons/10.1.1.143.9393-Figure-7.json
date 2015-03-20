@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 7,
+"Page": 7,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [79,922,409,953],
+"Caption": "Figure 7: (left) Original model. (right) Reconstruction of the Model with 12 view points. ",
+"ImageBB": [116,734,383,919],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [118.667,735.101,162.625,750.111], "Text": "Points"}
+]}

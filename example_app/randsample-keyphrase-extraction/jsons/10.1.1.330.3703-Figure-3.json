@@ -1,0 +1,21 @@
+{"Type":"Figure",
+"Number": 3,
+"Page": 5,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [73,515,407,609],
+"Caption": "Figure 3: (a) Original warped image (cropped from a 1600× 1200 image); (b) Inpainting mask; (c) Extracted shading im- age after surface ﬁtting; (d) Reconstructed shape after pass I; (e) Shape after pass II; (f ) Surface mesh with texture; (g) Photometrically restored image with k = 0.9; (h) Geomet- rically restored image; (i) Final restored image. ",
+"ImageBB": [83,184,397,505],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [120,281.578,136.604,294.253], "Text": "(a)"},
+	{"Rotation": 0,"TextBB": [120,381.411,136.438,394.086], "Text": "(d)"},
+	{"Rotation": 0,"TextBB": [226.83,281.578,242.11,294.253], "Text": "(b)"},
+	{"Rotation": 0,"TextBB": [226.497,381.411,242.278,394.086], "Text": "(e)"},
+	{"Rotation": 0,"TextBB": [339.168,281.578,354.452,294.253], "Text": "(c)"},
+	{"Rotation": 0,"TextBB": [338.004,381.411,349.446,394.086], "Text": "(f"},
+	{"Rotation": 0,"TextBB": [350.997,381.411,355.604,394.086], "Text": ")"},
+	{"Rotation": 0,"TextBB": [120,491.245,136.438,503.919], "Text": "(g)"},
+	{"Rotation": 0,"TextBB": [225.83,491.245,243.109,503.919], "Text": "(h)"},
+	{"Rotation": 0,"TextBB": [339.834,491.245,353.943,503.919], "Text": "(i)"}
+]}

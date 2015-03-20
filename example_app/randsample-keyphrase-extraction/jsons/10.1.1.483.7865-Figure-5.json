@@ -1,0 +1,12 @@
+{"Type":"Figure",
+"Number": 5,
+"Page": 5,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [73,392,406,513],
+"Caption": "Figure 5: A fragment of the argument schemes and their re- lation via their associated critical questions. The schemes not introduced in the examples enable, for instance, to ex- press that a condition in a patient appears in his clinical record (PACRS), that a donor’s condition is a contraindica- tion because it may lead to a graft failure (DGFS), or they will enable to answer to the critical question: DDTS CQ2 Is C2 harmful considering R’s condition? (RPCS). ",
+"ImageBB": [74,73,406,377],
+"ImageText" : [
+
+]}

@@ -1,0 +1,20 @@
+{"Type":"Figure",
+"Number": 1,
+"Page": 2,
+"DPI": 100,
+"Width": 826,
+"Height": 1169,
+"CaptionBB": [431,561,745,646],
+"Caption": "Figure 1: The number of nodes (per area πR2 ) required to ensure Efa = 99% on a disk with radius R when r/R ranges from 0.1 to 0.5, in a setting with border effect (us- ing (1) numerically; solid line) and without border effect (using (2) with λ = n/(πR2 ); dashed line). ",
+"ImageBB": [455,366,721,544],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [468.529,378.474,476.029,391.599], "Text": "Π"},
+	{"Rotation": 0,"TextBB": [479.31,378.999,486.81,392.099], "Text": "R"},
+	{"Rotation": 0,"TextBB": [486.81,378.789,492.154,388.123], "Text": "2"},
+	{"Rotation": 0,"TextBB": [456.785,394.642,479.285,407.742], "Text": "500"},
+	{"Rotation": 0,"TextBB": [456.785,420.75,479.285,433.85], "Text": "400"},
+	{"Rotation": 0,"TextBB": [456.785,446.86,479.285,459.96], "Text": "300"},
+	{"Rotation": 0,"TextBB": [456.785,472.967,479.285,486.067], "Text": "200"},
+	{"Rotation": 0,"TextBB": [456.785,499.076,479.285,512.176], "Text": "100"},
+	{"Rotation": 0,"TextBB": [708.837,516.722,716.337,529.822], "Text": "r"}
+]}

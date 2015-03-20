@@ -10,7 +10,7 @@
 
 {% thanks_for_entering request forms survey %}
 <p>{% firstof survey.description survey.tease %} </p>
-
+<div class="content">
 {% if forms %}
   <form method="POST" enctype="multipart/form-data" class="survey">
     {% for form in forms %}
@@ -19,6 +19,6 @@
     <input type="submit" value="Submit Survey"/>
   </form>
 {% endif %}
-
+</div>
 </body>
 </html>

@@ -1,0 +1,13 @@
+{"Type":"Figure",
+"Number": 4,
+"Page": 6,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [425,288,752,362],
+"Caption": "Figure 4. (a) The optimal value function, when the agent has direct access to its (x, y) position in the maze and when the set of possible locations is discretized into a 50×50 grid. The brighter the location, the greater its value. (b) The optimal value function obtained by RLVC. ",
+"ImageBB": [433,91,746,268],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [499.524,252.73,517.208,265.018], "Text": "(a)"},
+	{"Rotation": 0,"TextBB": [661.409,252.73,679.868,265.018], "Text": "(b)"}
+]}

@@ -1,0 +1,19 @@
+{"Type":"Figure",
+"Number": 10,
+"Page": 4,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [444,463,765,476],
+"Caption": "Figure 10: Chain of Responsibility UML diagram",
+"ImageBB": [445,357,756,448],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [585.66,363.169,616.157,374.523], "Text": "Handler"},
+	{"Rotation": 0,"TextBB": [452.837,366.679,479.247,378.033], "Text": "Classe"},
+	{"Rotation": 0,"TextBB": [566.971,383.148,629.878,390.041], "Text": "+HandleRequest()"},
+	{"Rotation": 0,"TextBB": [509.637,415.653,580.192,427.006], "Text": "ConcreteHandler1"},
+	{"Rotation": 0,"TextBB": [500.737,435.633,563.644,442.526], "Text": "+HandleRequest()"},
+	{"Rotation": 0,"TextBB": [629.583,415.067,700.138,426.42], "Text": "ConcreteHandler2"},
+	{"Rotation": 0,"TextBB": [723.193,424.532,752.687,433.253], "Text": "successor"},
+	{"Rotation": 0,"TextBB": [620.683,435.048,683.59,441.941], "Text": "+HandleRequest()"}
+]}

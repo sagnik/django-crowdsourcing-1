@@ -1,0 +1,23 @@
+{"Type":"Figure",
+"Number": 3,
+"Page": 6,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [73,372,407,517],
+"Caption": "Figure 3: Scene background matching between two video frames. First, background matching is ap- plied between two small-slide frames (left). The white box in the bottom frame bounds the slide area, which is known from a successful match in the first RANSAC phase. It is used to infer the slide area in the top frame. Next (right), keypoint match- ing is applied between the projected slide area and the slide, eliminating nearly all scene background keypoints. ",
+"ImageBB": [94,74,387,355],
+"ImageText" : [
+{"Rotation": 0,"TextBB": [96.5001,328.827,112.82,341.28], "Text": "(a)"},
+	{"Rotation": 0,"TextBB": [123.342,328.827,154.701,341.28], "Text": "Scene"},
+	{"Rotation": 0,"TextBB": [96.5001,341.327,148.065,353.78], "Text": "matching"},
+	{"Rotation": 0,"TextBB": [173.84,328.827,238.62,341.28], "Text": "background"},
+	{"Rotation": 0,"TextBB": [242.833,328.827,259.985,341.28], "Text": "(b)"},
+	{"Rotation": 0,"TextBB": [268.174,328.827,319.807,341.28], "Text": "Keypoint"},
+	{"Rotation": 0,"TextBB": [333.329,328.827,384.893,341.28], "Text": "matching"},
+	{"Rotation": 0,"TextBB": [242.833,341.327,274.841,353.78], "Text": "inside"},
+	{"Rotation": 0,"TextBB": [279.148,341.327,297.01,353.78], "Text": "the"},
+	{"Rotation": 0,"TextBB": [301.316,341.327,326.157,353.78], "Text": "slide"},
+	{"Rotation": 0,"TextBB": [330.463,341.327,353.864,353.78], "Text": "area"},
+	{"Rotation": 0,"TextBB": [358.297,341.327,382.042,353.78], "Text": "only"}
+]}

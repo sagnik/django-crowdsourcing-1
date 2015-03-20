@@ -1,0 +1,20 @@
+{"Type":"Figure",
+"Number": 1,
+"Page": 6,
+"DPI": 100,
+"Width": 850,
+"Height": 1100,
+"CaptionBB": [173,314,675,344],
+"Caption": "Figure 1: A state sequence (black dots) and observation sequence (gray dots) of length 1000 produced by the model with σ = 2.5, η = 2.5, and τ = 0.4. ",
+"ImageBB": [192,100,660,309],
+"ImageText" : [
+{"Rotation": 3,"TextBB": [194.181,140.598,200.604,144.441], "Text": "5"},
+	{"Rotation": 3,"TextBB": [194.181,191.316,200.604,195.16], "Text": "0"},
+	{"Rotation": 3,"TextBB": [194.181,240.016,200.604,247.897], "Text": "−5"},
+	{"Rotation": 0,"TextBB": [223.428,301.799,227.289,308.193], "Text": "0"},
+	{"Rotation": 0,"TextBB": [302.668,301.799,314.252,308.193], "Text": "200"},
+	{"Rotation": 0,"TextBB": [385.782,301.799,397.365,308.193], "Text": "400"},
+	{"Rotation": 0,"TextBB": [468.883,301.799,480.467,308.193], "Text": "600"},
+	{"Rotation": 0,"TextBB": [551.997,301.799,563.58,308.193], "Text": "800"},
+	{"Rotation": 0,"TextBB": [633.168,301.799,648.612,308.193], "Text": "1000"}
+]}
